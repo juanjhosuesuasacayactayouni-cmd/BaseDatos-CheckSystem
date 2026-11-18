@@ -1,0 +1,7 @@
+Para instalar correctamente la base de datos y que puedas ponerte a chambear sin problemas, por favor sigue estos pasos:
+
+1. Abre tu gestor de SQL y crea dos nuevas ventanas de consulta (New Query).
+2. En la primera consulta, copia todo el código del archivo 1.CrearStructura.sql y ejecútalo en su totalidad.
+3. En la segunda consulta, copia todo el código del archivo 2.InsertarDatos.sql y ejecútalo de la misma manera.
+
+Si ambos scripts corren sin arrojar errores, felicidades: la base de datos quedará configurada y lista para ejecutar la consultas.
